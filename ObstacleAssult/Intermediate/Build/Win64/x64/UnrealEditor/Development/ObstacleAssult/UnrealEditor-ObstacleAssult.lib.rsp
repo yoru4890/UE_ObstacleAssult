@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ObstacleAssult.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\ObstacleAssultEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.gen.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.init.gen.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\MovingPlatform.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\ObstacleAssult.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\Default.rc2.res"
+/OUT:"D:\github\game_project\Unreal_Game\UE_ObstacleAssult\ObstacleAssult\Intermediate\Build\Win64\x64\UnrealEditor\Development\ObstacleAssult\UnrealEditor-ObstacleAssult.lib"

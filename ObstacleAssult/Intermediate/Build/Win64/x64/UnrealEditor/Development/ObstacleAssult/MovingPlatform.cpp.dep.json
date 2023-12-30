@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\game_project\\unreal_game\\ue_obstacleassult\\obstacleassult\\source\\obstacleassult\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\game_project\\unreal_game\\ue_obstacleassult\\obstacleassult\\intermediate\\build\\win64\\x64\\obstacleassulteditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\github\\game_project\\unreal_game\\ue_obstacleassult\\obstacleassult\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassult\\definitions.obstacleassult.h",
+            "d:\\github\\game_project\\unreal_game\\ue_obstacleassult\\obstacleassult\\source\\obstacleassult\\movingplatform.h",
+            "d:\\github\\game_project\\unreal_game\\ue_obstacleassult\\obstacleassult\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassult\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

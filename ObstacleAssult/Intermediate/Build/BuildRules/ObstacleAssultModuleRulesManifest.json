@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\github\\game_project\\Unreal_Game\\UE_ObstacleAssult\\ObstacleAssult\\Source\\ObstacleAssult\\ObstacleAssult.Build.cs",
+		"D:\\github\\game_project\\Unreal_Game\\UE_ObstacleAssult\\ObstacleAssult\\Source\\ObstacleAssult.Target.cs",
+		"D:\\github\\game_project\\Unreal_Game\\UE_ObstacleAssult\\ObstacleAssult\\Source\\ObstacleAssultEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

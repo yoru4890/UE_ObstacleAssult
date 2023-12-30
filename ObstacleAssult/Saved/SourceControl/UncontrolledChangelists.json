@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/github/game_project/Unreal_Game/UE_ObstacleAssult/ObstacleAssult/Content/Main.umap"
+				"D:/github/game_project/Unreal_Game/UE_ObstacleAssult/ObstacleAssult/Content/Main.umap",
+				"D:/github/game_project/Unreal_Game/UE_ObstacleAssult/ObstacleAssult/Content/BP_ThirdPersonCharacter.uasset",
+				"D:/github/game_project/Unreal_Game/UE_ObstacleAssult/ObstacleAssult/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
 			]
 		}
 	]
